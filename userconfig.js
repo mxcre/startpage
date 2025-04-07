@@ -146,6 +146,18 @@ const default_config = {
               icon: "brand-stackoverflow",
               icon_color: palette.red,
             },
+            {
+              name: "Tabler",
+              url: "https://tabler.io",
+              icon: "brand-tabler",
+              icon_color: palette.red,
+            },
+            {
+              name: "Fontawesome",
+              url: "https://fontawesome.com",
+              icon: "letter-case-toggle",
+              icon_color: palette.red,
+            },
           ],
         },
         {
