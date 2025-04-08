@@ -220,6 +220,54 @@ const default_config = {
         },
       ],
     },
+    {
+      name: "minecraft",
+      background_url: "src/img/banners/cbg-02.gif",
+      categories: [
+        {
+          name: "development",
+          links: [
+            {
+              name: "github",
+              url: "https://github.com",
+              icon: "brand-github",
+              icon_color: palette.green,
+            },
+            {
+              name: "chatgpt",
+              url: "https://chatgpt.com",
+              icon: "brand-openai",
+              icon_color: palette.peach,
+            },
+            {
+              name: "mistral",
+              url: "https://mistral.ai",
+              icon: "message",
+              icon_color: palette.red,
+            },
+          ],
+        },
+
+        {
+          name: "resources",
+          links: [
+            {
+              name: "spigot",
+              url: "https://spigotmc.org",
+              icon: "droplet",
+              icon_color: palette.green,
+            },
+            {
+              name: "mcmodels",
+              url: "https://mcmodels.net",
+              icon: "box-model",
+              icon_color: palette.green,
+            },
+          ],
+        },
+
+      ],
+    },
   ],
 };
 
