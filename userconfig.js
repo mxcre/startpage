@@ -263,6 +263,12 @@ const default_config = {
               icon: "box-model",
               icon_color: palette.green,
             },
+            {
+              name: "birdflop",
+              url: "https://birdflop.com",
+              icon: "feather",
+              icon_color: palette.green,
+            },
           ],
         },
 
