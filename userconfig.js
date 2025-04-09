@@ -229,7 +229,7 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com",
+              url: "https://github.com/onetalemc",
               icon: "brand-github",
               icon_color: palette.green,
             },
